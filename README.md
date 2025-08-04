@@ -35,7 +35,7 @@ Please note that **this is not a functional app**; it's just a **concept website
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/CountessOreo/TinDog.git)
    ```
    
 2. Open the HTML file:
